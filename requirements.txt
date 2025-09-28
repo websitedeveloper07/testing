@@ -5,5 +5,3 @@ user-agent
 gunicorn
 chardet
 pyfiglet
-base64
-webbrowser
