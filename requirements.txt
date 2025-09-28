@@ -1,0 +1,9 @@
+Flask
+requests
+requests-toolbelt
+user-agent
+gunicorn
+chardet
+pyfiglet
+base64
+webbrowser
